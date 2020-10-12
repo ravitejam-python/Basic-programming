@@ -34,7 +34,7 @@ sort(list)
 print(list)                        #Printing the list after sorting
 
 
-#Bubble sort is all about sorting the array in descending order
+#Sorting the array in descending order
 
 sort_desc(list)
 print(list)
